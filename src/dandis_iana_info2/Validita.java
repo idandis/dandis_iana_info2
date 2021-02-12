@@ -1,5 +1,7 @@
 package dandis_iana_info2;
 
-public class Validita {
+public enum Validita {
+	
+	CAMPIONATO, AMICHEVOLE;
 
 }
